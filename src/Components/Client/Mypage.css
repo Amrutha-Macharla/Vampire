@@ -1,0 +1,20 @@
+.panelglass{
+    /* From https://css.glass */
+    background: rgba( 255, 255, 255, 0.4 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 3.5px );
+    /* -webkit-backdrop-filter: blur( 3.5px ); */
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    padding: 2%;
+}
+.wper{
+    width: 80%;
+}
+.containermy{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
